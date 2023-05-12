@@ -1,5 +1,5 @@
-Terms and Conditions v2 (TAC) Gamers/G7 (Including Gamers/G7 members that are in vengeance network)
-		Last updated: May 11, 2023
+Terms and Conditions v2.1 (TAC) Gamers/G7 (Including Gamers/G7 members that are in vengeance network)
+		Last updated: May 12, 2023
 		Author: ultra#1111
 
 
@@ -123,9 +123,9 @@ CATEGORY 6: G7 MEMBERSHIP (ESPORTS NOT DISCORD SERVER)
 ----------------------------------------------
 CATEGORY 7: g7 DISCORD SERVER
 
-	Section 1: TOS
-1.1 TOS applies to the discord server g7
-2.1 Server Rules are less reliable tban TOS, therefore TOS must be used for everything.
+	Section 1: TAC
+1.1 TAC applies to the discord server g7
+2.1 Server Rules are less reliable tban TAC, therefore TAC must be used for everything.
 
 	Section 2: Server Privacy
 1.2 You cannot share the invite link to other people without getitng authroziation from ulta/owner.
@@ -163,3 +163,7 @@ Fixed v1.4 Update log date
 Fixed C6 for being mistaken as the g7 minecraft server
 Added C7 for the discord server
 Fixed Update log to add "-" to everyone timestape/version number to fix it and make it clearer to everyone!
+
+-v2.1 May 12 2023
+Fixed C7 using TOs and not TAc as updated.
+Started to use github commit update infromation to sync with update logs
