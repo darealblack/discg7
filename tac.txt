@@ -1,4 +1,4 @@
-Terms and Conditions v2.1 (TAC) Gamers/G7 (Including Gamers/G7 members that are in vengeance network)
+Terms and Conditions v3 (TAC) Gamers/G7 (Including Gamers/G7 members that are in vengeance network)
 		Last updated: May 12, 2023
 		Author: ultra#1111
 
@@ -6,26 +6,29 @@ Terms and Conditions v2.1 (TAC) Gamers/G7 (Including Gamers/G7 members that are 
 Key:
 C= Category number
 1.2(3) = The first number is the strand, The second number is the Section, the third number in parenthesis is a subsection it sometimes isn't there.
+S = Section
 
 Example: C3 2.1(2)
+Example 2: C3 S2
 
 BEING A MEMBER IN GAMERS/G7/VENGEANCE MEANS YOU FULLY AGREE TO THE TAC AND RULES. THERE ARE CONSEQUENCES FOR BREAKING THIS!
 ----------------------------------------------
-CATEGORY 1:	Rules (CAN BE FOUND IN THE DISCORD GAMERS/AND SOME IN THE VENGEANCE NETWORK)
+CATEGORY 1:	Rules (CAN BE FOUND IN THE DISCORD GAMERS AND G7/AND SOME IN THE VENGEANCE NETWORK)
 
 	Section 1 Discord Server Rules
 1.1 Stay mature, you can swear. But don't go too far.
 2.1 Don't Spam, messages get auto-deleted
 3.1 Don't post inappropriate stuff/hardcore NSFW
-4.1 Don't Beg
+4.1 Don't Beg for anything
 5.1 Don't be self-fish with bots
 6.1 No raids, you will be bot checked once you join
 7.1 Don't harass people
 8.1 Doxing/Exposing is not allowed
 9.1 Don't beg for a role/moderator/admin
-10.1 Showing images of people IRL in school/anything without permission is not allowed.
+10.1 Showing images of people IRL in school/anything without permission is not allowed. (Bypass is only allowed by owener) [Clarifcation on C4 1.1-3.1]
 11.1 You may not advertise servers or promote leaving here, don’t spam them or DM without permission.
 
+__________ [THESE RULES ARE OUTDATED AND WILL BE UPDATED SOON -ultra 5/12/2023] __________
 	Section 2 Minecraft Server Rules
 1.2 Using commands that you are not allowed to use, or not understanding about is not allowed.
 2.2 Hacking is something we take seriously, you will get banned without a doubt (for more information go to blacklisted-modifications in Vengeance discord)
@@ -33,36 +36,43 @@ CATEGORY 1:	Rules (CAN BE FOUND IN THE DISCORD GAMERS/AND SOME IN THE VENGEANCE 
 4.2 Using blacklisted modifications is an instant Ban, Warn, Block
 5.2 Xray is not allowed, you will not able to do that. Any attempts to use Seed-Mine/Using another world with the same seed will notify me, and punishment is guaranteed.
 6.2 No cheating
+__________ [THESE RULES ARE OUTDATED AND WILL BE UPDATED SOON -ultra 5/12/2023] __________
 
 	Section 3 Streaming and Recording Rules
-1.3 Live streaming/recording is done in Streaming/Recording VC only.
+1.3 Live streaming/recording is done in Streaming/Recording VC only. (Only in Gamers)
 2.3 You may not show the discord in the video/stream (ask ultra to help you do that)
 3.3 No saying IRL names
 4.3 No sharing Invites
 5.3 No streaming/recording without informing others
+6.3 This doesnt apply to clips by ex: Medal.Tv or Insight Capture etc. If Private only.
 
 	Section 4 Staff Rules
 1.4 No abuse of power
 2.4 Don't kick people out for no reason
 3.4 Don't warn/mute people for no reason
-4.4 Do not troll
+4.4 Do not troll without permission
+5.4 Staff must use Wick bot to Ban/Kick/Moderate/Warn/Quarantine Everything.
+6.4 Staff CANNOT use manual discord tools for moderation
+7.4 Staff CANNOT delete logs
+8.4 Staff MUST follow all the rules and still apply to all of them. (Exclusion in C5 S4)
 
 	Section 5 Moderation
 1.5 You agree that you are fully able to be banned, kicked, moderated, timeout, muted etc. for any reason. 
 2.5 Moderation done by staff other than the owner are able to be reverted by the owner and high ranking staff with consent.
 3.5 The owner can change staff completely 
 4.5 All staff can't abuse power at all, only if permission if given by owner rarely.
-5.5 Staff punishments are only by the founders (Phase, ultra, shining_legend) they all can be reverted by only ultra.
+5.5 Staff punishments are only by the founders (Phase, ultra, shining_legend) they all can be reverted by only ultra. (Also Applies to every server)
 ----------------------------------------------
 CATEGORY 2: AGREEMENTS
 
 	Section 1 Data Collection
 1.1 All Public IPS are collected by Minecraft Logs, this is not intended for malicious purposes but rather Alt Detector and anti-cheat. [PUBLIC IPS ARE USELESS FOR MALICIOUS PURPOSES] (THEY ARE PRIVATE AND ACCESSED ONLY BY THE OWNER)
-2.1 Everything you do and change about you in discord is logged (IN GAMERS ONLY), this is intended for moderation purposes. (VIA: DISCORD AUDIT LOG)
+2.1 Everything you do and change about you in discord is logged (IN GAMERS/G7 ONLY), this is intended for moderation purposes. (VIA: DISCORD AUDIT LOG)
 3.1 Minecraft Logging, every action you do in all servers hosted is logged and saved in a cloud server. Every block you place gives metadata to staff.
+4.1 Discord Logging can log all your deleted/edtied messages/images etc. This is private acesss.
 
 	Section 2 Staff Access
-1.2 [MINECRAFT] All staff can access and go to your base or location, they can't gain that information to their advantage. All information that isn't needed like coords must be redacted instantly. Please report if you think someone abused this to the server owner.
+1.2 [MINECRAFT] All staff can access and go to your base or location, they can't gain that information to their advantage. All information that isn't needed like coords must be redacted instantly. Please report if you think someone abused this to the server owner. If you think this is unfair, ultra can give you clarfication on what this rule really means.
 2.2 [FILES IN PC] Staff with permission from ultra can scan your computer for hacks. However you have the full right to deny this, but there is consequences for denying this. If any malicious stuff is inserted not from the person being scanned the staff role is reverted for the person who caused this. (C1 4.5 and C1 5.5 and C1 3.5 relate to this)
 3.2 Staff have full access to all your logs (Discord only, Minecraft is with permission from the owner)
 
@@ -101,9 +111,9 @@ CATEGORY 5: MISCELLANEOUS
 1.2 You must not sabotage people in the server or hack them.
 
 	Section 3: TAC updates
-1.3 Every time the TAC updates you have 1 day to agree to them, by putting a thumbs up reaction in #tac
+1.3 TAC must be read every update, and seeing that the TAC wasnt updated isnt an excuse for new unread rules.
 
-	Section 4: Owner
+	Section 4: Owner (aka: ultra#1111)
 1.4 Owner can break the TAC for some reasons
 2.4 Owner can also give permision for people to break TAC for some reasons. 
 3.4 Owner does not have to follow the TAC 
@@ -119,13 +129,14 @@ CATEGORY 6: G7 MEMBERSHIP (ESPORTS NOT DISCORD SERVER)
 4.1 To be in G7 you must meet some requirements send by ultra
 5.1 You must fully support Games
 6.1 A member can be votekicked out of the team for a strong reason, this will be judged by ultra himself only.
+7.1 You must be in Valorant Premire
 
 ----------------------------------------------
 CATEGORY 7: g7 DISCORD SERVER
 
 	Section 1: TAC
 1.1 TAC applies to the discord server g7
-2.1 Server Rules are less reliable tban TAC, therefore TAC must be used for everything.
+2.1 Server Rules are less reliable than TAC, therefore TAC must be used for everything.
 
 	Section 2: Server Privacy
 1.2 You cannot share the invite link to other people without getitng authroziation from ulta/owner.
@@ -167,3 +178,14 @@ Fixed Update log to add "-" to everyone timestape/version number to fix it and m
 -v2.1 May 12 2023
 Fixed C7 using TOs and not TAc as updated.
 Started to use github commit update infromation to sync with update logs
+
+-v3 May 12 2023
+Updated everything to be compatible with G7 (Discord Server)
+Updated and added new staff rules
+Clarified high-level data collections in C2
+Added outdateed warning to the Minecraft Rules (PSA: Working on them to update when the server releases to make it fair and fun and understandable)
+Fixed the Key to support the new Section (S) key type and clarify on it
+Added G7 Membership rules in C6 S1
+Fixed Some Grammer
+Clarified alot of misunderstood things
+Made it more user-friendly
