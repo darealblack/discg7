@@ -32,3 +32,11 @@ CATEGORY 1:	Unfair Advantage
 	Section 3 Glitches and Bugs
 1.3 No Glitches or Bugs are not allowed (T2)
 2.3 Glitches or Bugs can get you banned and are not allowed not to be used (T2)
+3.3 Duping is not allowed (T1/T2)
+
+----------------------------------------------
+CATEGORY 2:	Griefing
+
+	Section 1 Methods of Griefing
+1.1 TNT is allowed, but its controlled, read C2 S2 fore more info.
+2.1 Fires are allowed
