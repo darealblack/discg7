@@ -7,10 +7,24 @@ Key:
 C= Category number
 1.2(3) = The first number is the strand, The second number is the Section, the third number in parenthesis is a subsection it sometimes isn't there.
 S = Section
+(T1) = Type 1 Rule (No Court)
+(T2) = Type 2 Rule (Court)
+(T1/T2) or (T2/T1) = Decided by ultra if no court or court
 
 Example: C3 2.1(2)
 Example 2: C3 S2
 
 BEING A MEMBER IN VENGEANCE MEANS YOU FULLY AGREE TO THE TAC AND RULES. THERE ARE CONSEQUENCES FOR BREAKING THIS!
 ----------------------------------------------
-CATEGORY 1:	
+CATEGORY 1:	Unfair Advantage
+
+	Section 1 Third-Party Cheating
+1.1 Hacking is something we take seriously, you will get banned without a doubt (for more information go to blacklisted-modifications in Vengeance discord) (T1)
+2.1 Using blacklisted modifications is an instant Ban, Warn, Block (T1)
+3.1 Xray is not allowed, you will not able to do that. Any attempts to use Seed-Mine/Using another world with the same seed will notify me, and punishment is guaranteed. (T1)
+
+	Section 2 Combat Logging
+1.2 You are not allowed to Combat-Log (Read more in C1 S2)  (T2/T1)
+2.2 CombatLog is concidered everything that you get tagged by the Anti-CombatLog. (T1)
+3.2 Even after the timer finishes 30s you still cannot cheat with commands or anything else blocked by the anti cheat for 30 more seconds (T2)
+4.2 You cannot evade combat logging (T2/T1)
