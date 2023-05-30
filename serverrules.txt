@@ -44,7 +44,7 @@ CATEGORY 1:	Unfair Advantage
 CATEGORY 2:	Griefing
 
 	Section 1 Methods of Griefing
-1.1 TNT is not allowed (Will be changed on June 27th), but its controlled (June 27th), read C2 S2 fore more info. (T2/T1)
+1.1 TNT is not allowed (Will be changed on mid-june ), but its controlled (mid-june), read C2 S2 fore more info. (T2/T1)
 2.1 Fires are not allowed (T2/T1)
 
 	Section 2 Grief Control
@@ -55,4 +55,14 @@ CATEGORY 2:	Griefing
 3.2 TNT Cooldown is 30 seconds. This is to avoid massive griefs that would happen in seconds (T2)
 
 ----------------------------------------------
-CATEGORY 3:	Griefing
+CATEGORY 3:	Teams
+
+	Section 1 Alliance
+1.1 Teams in an alliance are not allowed to fight or grief each other (T1/T2)
+2.1 Alliance can be done with a contract or agreements (T1/T2)
+3.1 Alliance must be posted in the wars and alliance channel
+
+	Section 2 War
+1.2 War can be done and must be announced in the #warsandalliance channel
+2.2 When in war griefing is allowed
+
