@@ -38,5 +38,14 @@ CATEGORY 1:	Unfair Advantage
 CATEGORY 2:	Griefing
 
 	Section 1 Methods of Griefing
-1.1 TNT is allowed, but its controlled, read C2 S2 fore more info.
+1.1 TNT is allowed, but its controlled, read C2 S2 fore more info. (T2/T1)
 2.1 Fires are allowed
+
+	Section 2 Grief Control
+1.2 You cannot Grief a place when less than 2 people are online that own the place you are griefing (T2)
+   1.2(1) Griefing a place that has only 1 person ownership and they are online is allowed (T2)
+   1.2(2) Griefing a place that is not owned is allowed (T2)
+2.2 You cannot Grief near 500 blocks of spawn. (T1/T2)
+3.2 TNT Cooldown is 30 seconds. This is to avoid massive griefs that would happen in seconds (T2)
+
+	Section 3
