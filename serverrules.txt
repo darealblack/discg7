@@ -1,5 +1,5 @@
-Server Minecraft Rules (SMR) Vengeance Network
-		Last updated: May 30th, 2023
+Server Minecraft Rules v1 (SMR) Vengeance Network (May include anything sent in discord's minecraft chats in vengeance/g7/gamers (archive 2)/gamers (archive))
+		Last updated: May 31th, 2023
 		Author: ultra#1111
 
 
@@ -14,7 +14,7 @@ S = Section
 Example: C3 2.1(2)
 Example 2: C3 S2
 
-BEING A MEMBER IN VENGEANCE MEANS YOU FULLY AGREE TO THE TAC AND RULES. THERE ARE CONSEQUENCES FOR BREAKING THIS!
+BEING A MEMBER IN VENGEANCE MEANS YOU FULLY AGREE TO THE TAC AND SMR. THERE ARE CONSEQUENCES FOR BREAKING THIS! [MORE INFO IN CATEGORY 5
 ----------------------------------------------
 CATEGORY 1:	Unfair Advantage
 
@@ -22,7 +22,7 @@ CATEGORY 1:	Unfair Advantage
 1.1 Hacking is something we take seriously, you will get banned without a doubt (for more information go to blacklisted-modifications in Vengeance discord) (T1)
 2.1 Using blacklisted modifications is an instant Ban, Warn, Block (T1)
 3.1 Xray is not allowed, you will not able to do that. Any attempts to use Seed-Mine/Using another world with the same seed will notify me, and punishment is guaranteed. (T1)
-4.1 No Cheating with commands
+4.1 No Cheating with commands (T1)
 
 	Section 2 Combat Logging
 1.2 You are not allowed to Combat-Log (Read more in C1 S2)  (T2/T1)
@@ -79,23 +79,46 @@ CATEGORY 3:	Teams
 CATEGORY 4:	Agreements
 
 	Section 1 SMR
-1.1 By Joining the Alliance/Vengeance Server you fully agree to all the SMR Rules (T1)
-2.1 You Fully agree that you can get punished for breaking the rules/SMR (T1)
+1.1 By Joining the Alliance/Vengeance Server you fully agree to all the SMR and TAC Rules (T1)
+2.1 You Fully agree that you can get punished for breaking the rules/SMR/TAC (T1)
 
 	Section 2 Logging/Data Agreemtns
-1.2 You fully agree that everything you do in the server will be logged
-  1.2(1) All Blocks broken or placed will be logged in the server files
-  1.2(2) Every Transaction and trade will be logged
-2.2 You agree that everytime you log in your Public IP will be logged in the logs files
+1.2 You fully agree that everything you do in the server will be logged (T1)
+  1.2(1) All Blocks broken or placed will be logged in the server files (T1)
+  1.2(2) Every Transaction and trade will be logged (T1)
+2.2 You agree that everytime you log in your Public IP will be logged in the logs files (T1)
 
 ----------------------------------------------
 CATEGORY 5:	Punishments
 
 	Section 1 Punishemnts
-1.1 Bypassing punishment will cause your IP to get banned, therefore not letting any connection through
-2.1 You are nott allowed to bypass any type of punishment
-  2.1(1) This includes but not limted to, Alt accounts, bedrock accounts etc.
-  
+1.1 Bypassing punishment will cause your IP to get banned, therefore not letting any connection through (T1)
+2.1 You are not allowed to bypass any type of punishment (T1)
+  2.1(1) This includes but not limted to, Alt accounts, bedrock accounts etc. (T1)
+3.1 Punishments can range from all types and you must deal with it (T1)
+
+	Section 2 Punished
+1.2 When you are punished you must not beg to get pardoned (T1)
+2.2 You must deal with the punishemnt (T1)
+
+----------------------------------------------
+CATEGORY 6:	Chat Rules
+
+	Section 1 General Rules
+1.1 Stay mature, you can swear. But don't go too far.
+2.1 Don't Spam, messages get auto-deleted
+3.1 Don't post inappropriate stuff/hardcore NSFW
+4.1 Don't Beg for anything
+6.1 No raids/spamming, you will be bot checked once you join
+7.1 Don't harass people
+8.1 Doxing/Exposing is not allowed
+9.1 Don't beg for a permission, staff or role
+10.1 Showing images of people IRL in school/anything without permission is not allowed. (Bypass is only allowed by owner) [Clarifcation on TAC C4 1.1-3.1]
+11.1 You may not advertise servers or promote leaving here, don’t spam them or DM without permission.
+
+	Section 2 Sensitive Information
+1.2 Do not sent sensitive information in chat
+  1.2(1) This includes but not limited to IPs, coords, passwords etc.
 
 ----------------------------------------------
 
