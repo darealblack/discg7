@@ -46,7 +46,7 @@ CATEGORY 1:	Unfair Advantage
 CATEGORY 2:	Griefing
 
 	Section 1 Methods of Griefing
-1.1 TNT is not allowed (Will be changed on mid-june ), but its controlled (mid-june), read C2 S2 fore more info. (T2/T1)
+1.1 TNT and any form of explosion is not allowed (Will be changed on mid-june ), but its controlled (mid-june), read C2 S2 fore more info. (T2/T1)
 2.1 Fires are not allowed (T2/T1)
 
 	Section 2 Grief Control
@@ -57,6 +57,7 @@ CATEGORY 2:	Griefing
 3.2 TNT Cooldown is 30 seconds. This is to avoid massive griefs that would happen in seconds (T2)
 4.2 Griefing includes (but not limted to) stealing, damaging, adding block, changing anything in the base (T1/T2)
 5.2 You cannot use TNT with an elytra (T2/T1)
+6.2 You can use TNT and any form of explosion to mine in the nether for netherite mining.
 
 ----------------------------------------------
 CATEGORY 3:	Teams
