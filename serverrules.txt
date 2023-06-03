@@ -140,3 +140,8 @@ CATEGORY 7:	MISCELLANEOUS
 3.2 No DDOS/Raids they will be blocked easily (T1)
 
 ----------------------------------------------
+CATEGORY 8:	OWNER
+
+	Section 1 Owner
+1.1 Owner can do whatever he wants
+2.1 He can change the rules
