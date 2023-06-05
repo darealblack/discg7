@@ -1,4 +1,4 @@
-Server Minecraft Rules v1 (SMR) Vengeance Network (May include anything sent in discord's minecraft chats in vengeance/g7/gamers (archive 2)/gamers (archive))
+Server Minecraft Rules v1 (SMR) Vengeance Network (May include anything sent in discord's minecraft chats in vengeance/g7/gamers (archive 2)/gamers (archive)) (THESE RULES APPLY TO ALL OF THE NETWORK)
 		Last updated: May 31th, 2023
 		Author: ultra#1111
 
@@ -145,3 +145,19 @@ CATEGORY 8:	OWNER
 	Section 1 Owner
 1.1 Owner can do whatever he wants
 2.1 He can change the rules
+
+----------------------------------------------
+CATEGORY 9:	COURT
+
+	Section 1 Court
+1.1 You must respect the court
+2.1 You must deal with the judge's sentence
+
+
+	Section 2 Lying
+1.2 You cannot lie in court, if so then you will recive a hefty fine
+2.2 No bribes
+
+	Section 3 Rules
+1.3 When sueing someone you must go in #sueing
+----------------------------------------------
